@@ -1,0 +1,44 @@
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Type212212First Name Here Type 22 Name Here
+Age: 43
+Location: Type Complete Address Here21212
+Contact: Type1212Contact Number Here
+Car: Pick-up-2013
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Type First Namje Here j
+Age: 43
+Location: j
+Contact: j
+Tool: Bus-2007
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Tjype First Name Here j
+Age: 43
+Location: j
+Contact: j
+Tool: Bus-2007
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Type First Name Herej j
+Age: 43
+Location: j
+Contact: j
+Tool: Jackhammer-Rigid
+Total Rent Price: 0.00 
+--------------------------------------------------
